@@ -1,4 +1,8 @@
 # 🚀 Project 2: Network Design and Device Deployment (FTTH Network)
+## 🌐 Project Nature
+**Real-world Networking Project providing real-time FTTH (Fiber to the Home) and IPTV services to customers.**
+## Network Diagram
+![Network Diagram](https://github.com/user-attachments/assets/32184448-84c6-4018-96e6-cbd93173a5b4)
 
 ## 📋 Role
 **NOC Engineer**
@@ -12,9 +16,6 @@
 
 ## 🗓️ Duration
 **13th November 2025 – 30th November 2024**
-
-## 🌐 Project Nature
-**Real-world Networking Project providing real-time FTTH (Fiber to the Home) services to customers.**
 
 ---
 
@@ -52,9 +53,10 @@ Successfully deployed and maintained a **scalable, secure, and efficient FTTH ne
 ---
 
 ## 🧾 Author
-**NOC Engineer – [Your Name Here]**  
-📧 [your.email@example.com]  
-🌍 [LinkedIn / GitHub Profile Link]
+**A. NOC Engineer – Nabin Pokhrel**  
+📧 npokhrel878@gmail.com  
+🌍 https://www.linkedin.com/in/nabin-pokhrel-b64519176/<img width="2067" height="158" alt="image" src="https://github.com/user-attachments/assets/ddc13514-2a53-48a3-bf16-d53ea2ec16a0" />
+
 
 
 
