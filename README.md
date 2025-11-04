@@ -48,7 +48,7 @@
 ---
 
 ## 📡 Outcome
-Successfully deployed and maintained a **scalable, secure, and efficient FTTH network** delivering both **internet and IPTV** services with improved monitoring and authentication mechanisms.
+Successfully deployed and maintained a **scalable, secure, and efficient FTTH network** delivering both **internet and IPTV** Live services to more then **1500 customers** with improved monitoring and authentication mechanisms.
 
 ---
 
