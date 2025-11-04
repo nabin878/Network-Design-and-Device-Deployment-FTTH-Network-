@@ -55,7 +55,7 @@ Successfully deployed and maintained a **scalable, secure, and efficient FTTH ne
 ## 🧾 Author
 **A. NOC Engineer – Nabin Pokhrel**  
 📧 npokhrel878@gmail.com  
-🌍 https://www.linkedin.com/in/nabin-pokhrel-b64519176/<img width="2067" height="158" alt="image" src="https://github.com/user-attachments/assets/ddc13514-2a53-48a3-bf16-d53ea2ec16a0" />
+🌍 https://www.linkedin.com/in/nabin-pokhrel-b64519176
 
 
 
